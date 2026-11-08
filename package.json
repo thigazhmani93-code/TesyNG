@@ -45,6 +45,7 @@
     "crypt": "^0.0.2",
     "debug": "^4.4.3",
     "diff": "^4.0.4",
+    "dotenv": "^18.0.9",
     "emoji-regex": "^8.0.0",
     "error-stack-parser": "^2.1.4",
     "escape-string-regexp": "^1.0.5",
